@@ -1,0 +1,16 @@
+{
+  "name": "Doris Jocelyn (@dorisjocelynn)",
+  "short_name": "Doris Jocelyn",
+  "description": "Perfil oficial de Doris Jocelyn en Instagram. Maquillaje, arte y transformaciones.",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/doris_public/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
